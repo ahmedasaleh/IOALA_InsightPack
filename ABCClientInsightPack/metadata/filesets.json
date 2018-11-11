@@ -1,0 +1,6 @@
+
+[
+    {"fileName":"ABCClientExtractor.jar","name":"ABCClientLogSplitter","className":"com.ibm.la.insightpack.ABCClientLogSplitter.ABCClientLogSplitter","type":0,"fileType":0},
+    {"fileName":"ABCClientExtractor.jar","name":"ABCClientLogAnnotator","className":"com.ibm.la.insightpack.ABCClientLogAnnotator.ABCClientLogAnnotator","type":1,"fileType":0},
+
+]

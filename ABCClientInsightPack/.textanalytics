@@ -1,0 +1,9 @@
+#Wed Nov 07 14:49:05 EET 2018
+srcTextAnalyticsPath=[P]src-files/extractors/ruleset
+general.provenance=true
+pagination.isEnabled=true
+tamTextAnalyticsPath=[P]textAnalytics/bin
+searchPath.dataPath=[W]/ABCClientInsightPack
+UseModularAQL=true
+pagination.numFilesPerPage=50
+langWare.tokenizerChoice=1

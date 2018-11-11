@@ -1,0 +1,56 @@
+[m[37m2017-12-03 00:00:02,152 | Producer-CALLBACK-71 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,180 | Producer-CALLBACK-36 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,181 | Producer-CALLBACK-56 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,181 | Producer-CALLBACK-90 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,181 | Producer-CALLBACK-61 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-42 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-43 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-37 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-56 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-61 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,182 | Producer-CALLBACK-90 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,183 | Producer-CALLBACK-42 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,183 | Producer-CALLBACK-43 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,183 | Producer-CALLBACK-37 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,184 | Producer-CALLBACK-77 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [27] milliseconds.
+[m[37m2017-12-03 00:00:02,187 | Producer-CALLBACK-51 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [29] milliseconds.
+[m[37m2017-12-03 00:00:02,192 | Producer-CALLBACK-76 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,192 | Producer-CALLBACK-53 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-49 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [26] milliseconds.
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-32 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-17 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-67 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-76 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,193 | Producer-CALLBACK-53 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,194 | Producer-CALLBACK-32 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,194 | Producer-CALLBACK-17 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,194 | Producer-CALLBACK-67 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,197 | Producer-CALLBACK-100 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,198 | Producer-CALLBACK-100 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,199 | Producer-CALLBACK-21 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [31] milliseconds.
+[m[37m2017-12-03 00:00:02,200 | Producer-CALLBACK-4 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [32] milliseconds.
+[m[37m2017-12-03 00:00:02,200 | Producer-CALLBACK-73 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [27] milliseconds.
+[m[37m2017-12-03 00:00:02,205 | Producer-CALLBACK-68 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [98] Elements .
+[m[37m2017-12-03 00:00:02,207 | Producer-CALLBACK-68 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-37 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [26] milliseconds.
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-36 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [29] milliseconds.
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-61 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [27] milliseconds.
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-43 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [26] milliseconds.
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-90 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [27] milliseconds.
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-30 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,208 | Producer-CALLBACK-13 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,209 | Producer-CALLBACK-29 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,210 | Producer-CALLBACK-30 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,210 | Producer-CALLBACK-13 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,211********cer-CALLBACK-70 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,211********cer-CALLBACK-29 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,212 | Producer-CALLBACK-70 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,213 | Producer-CALLBACK-56 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [32] milliseconds.
+[m[37m2017-12-03 00:00:02,213 | Producer-CALLBACK-15 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,214 | Producer-CALLBACK-81 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,214 | Producer-CALLBACK-42 | INFO  | com.abcClient.subscription.dao.CallbackDAO.getPendingRequests(CallbackDAO.java:125) | [0] pending callbacks retrieved in [32] milliseconds.
+[m[37m2017-12-03 00:00:02,215 | Producer-CALLBACK-15 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,215 | Producer-CALLBACK-81 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]
+[m[37m2017-12-03 00:00:02,216 | Producer-CALLBACK-66 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,216 | Producer-CALLBACK-23 | INFO  | com.abcClient.subscription.queue.ProducerProcessor.run(ProducerProcessor.java:30) | Attempt to load [100] Elements .
+[m[37m2017-12-03 00:00:02,217 | Producer-CALLBACK-23 | INFO  | com.abcClient.subscription.dao.CallbackDAO.updateCallbackReceivedRequests(CallbackDAO.java:147) | Updating callback staus to Q for processor [102]

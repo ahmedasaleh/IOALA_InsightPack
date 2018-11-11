@@ -1,0 +1,32 @@
+<project>
+	<target name="clean">
+		<delete dir="build"/>
+	</target>
+	<!-- Compile custom Java source code into class files -->
+	<target name="compile" description="Compile splitter/annotator Java source code into class files">
+		<mkdir dir="build/classes"/>
+		<javac srcdir="src" destdir="build/classes">
+			<classpath refid="compile.classpath"/>
+		</javac>
+		<copy file="log4j.properties" todir="./classes"/>
+	</target>
+
+	<!-- Create JAR files containing custom Java class files -->
+	<target name="jar" depends="compile" description="Create JAR files containing custom Java class files">
+		<jar destfile="src-files/extractors/fileset/java/ABCClientExtractor.jar" basedir="build/classes">
+		</jar>
+	</target>
+
+	<target name="run">
+	</target>
+
+	<!-- Define the CLASSPATH -->
+	<path id="compile.classpath">
+		<fileset dir="./lib">
+			<include name="*.jar"/>
+		</fileset>
+		<fileset dir="build/classes">
+			<include name="*/**"/>
+		</fileset>
+	</path>
+</project>

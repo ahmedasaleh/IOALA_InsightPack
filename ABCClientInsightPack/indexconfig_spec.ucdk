@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ASCII"?>
+<UCDK:ContentPack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:UCDK="http:///ucdk.ecore" name="ABCClientInsightPack" version="1.0.4.0">
+  <indexConfigFiles fileID="1" name="ABCClientInsightPack_indexconf" description="Index configuration - ABCClientInsightPack" lastModified="11/11/2018"/>
+  <indexConfigFields name="logRecord" retrievable="true" retrieveByDefault="true" combine="FIRST" indexConfigFile="//@indexConfigFiles.0" sortOrder="1">
+    <fieldSources path="content.text"/>
+    <fieldSources path="metadata.text"/>
+  </indexConfigFields>
+  <indexConfigFields name="timestamp" dataType="DATE" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" combine="FIRST" indexConfigFile="//@indexConfigFiles.0" sortOrder="2">
+    <fieldSources dateFormat="yyyy-MM-dd HH:mm:ss,SSS" path="metadata.timestamp"/>
+  </indexConfigFields>
+  <indexConfigFields name="Date" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="3">
+    <fieldSources dateFormat="" path="annotations.Date"/>
+  </indexConfigFields>
+  <indexConfigFields name="Time" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="4">
+    <fieldSources dateFormat="" path="annotations.Time"/>
+  </indexConfigFields>
+  <indexConfigFields name="Producer" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="5">
+    <fieldSources dateFormat="" path="annotations.Producer"/>
+  </indexConfigFields>
+  <indexConfigFields name="Severity" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="6">
+    <fieldSources dateFormat="" path="annotations.Severity"/>
+  </indexConfigFields>
+  <indexConfigFields name="JavaClass" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="7">
+    <fieldSources dateFormat="" path="annotations.JavaClass"/>
+  </indexConfigFields>
+  <indexConfigFields name="JavaMethod" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="8">
+    <fieldSources dateFormat="" path="annotations.JavaMethod"/>
+  </indexConfigFields>
+  <indexConfigFields name="LineNumber" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="9">
+    <fieldSources dateFormat="" path="annotations.LineNumber"/>
+  </indexConfigFields>
+  <indexConfigFields name="Message" retrievable="true" retrieveByDefault="true" sortable="true" filterable="true" indexConfigFile="//@indexConfigFiles.0" sortOrder="10">
+    <fieldSources dateFormat="" path="annotations.Message"/>
+  </indexConfigFields>
+</UCDK:ContentPack>

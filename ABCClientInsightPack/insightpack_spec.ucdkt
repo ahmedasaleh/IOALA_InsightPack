@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<UCDK:ContentPack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:UCDK="http:///ucdk.ecore" name="ABCClientInsightPack">
+  <filesets name="ABCClientLogSplitter" fileName="ABCClientExtractor.jar" className="com.ibm.la.insightpack.ABCClientLogSplitter.ABCClientLogSplitter"/>
+  <filesets name="ABCClientLogAnnotator" type="Annotate" fileName="ABCClientExtractor.jar" className="com.ibm.la.insightpack.ABCClientLogAnnotator.ABCClientLogAnnotator"/>
+  <sourceTypes name="ABCClientLog_ST" annotatorRef="//@filesets.1" splitterRef="//@filesets.0">
+    <indexConfigRef href="file:/C:/Users/IBM_ADMIN/workspace-juno-SR2/ABCClientInsightPack/indexconfig_spec.ucdk#//@indexConfigFiles.0"/>
+  </sourceTypes>
+</UCDK:ContentPack>
